@@ -22,7 +22,6 @@ This project is a modern HTML/CSS-based digital resume designed web based applic
 
 ## Technologies Used
 - HTML and CSS for structure and styling.
-- Jinja2 templating for dynamically injecting content into HTML.
 - Deployed using basic hosting services (e.g., GitHub Pages, Amazon EC2) or locally with a Python web server for easy sharing and accessibility.
 
 ## Deployment Options
